@@ -1,6 +1,6 @@
-## Integrate our code OpenAI API
+ ## Integrate our code OpenAI API
 
-
+#key in constants.py and all requirement files in requirements.txt
 import os
 from constants import openai_key
 from langchain.llms import OpenAI
